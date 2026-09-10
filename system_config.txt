@@ -1,0 +1,3 @@
+BANK_NAME=Standard Bank Core System Prototype
+MAX_ATTEMPTS=3
+CURRENCY=ZAR
